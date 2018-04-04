@@ -1,2 +1,1 @@
-welcome to aw
-traning course
+welcome to aws
